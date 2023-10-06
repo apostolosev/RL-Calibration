@@ -1,0 +1,1228 @@
+{
+    "numeric": [
+        {
+            "time": 0.07244110107421875,
+            "displacement": 0.11567900913645023,
+            "velocity": 0.37388282835328235,
+            "reward": -0.029387909226968944,
+            "path": "data/record/stream_1678198211456/frame_49.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_49.bmp"
+        },
+        {
+            "time": 0.14324593544006348,
+            "displacement": 0.13067426412595368,
+            "velocity": 0.3901986559881468,
+            "reward": -0.0306028779292744,
+            "path": "data/record/stream_1678198211456/frame_50.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_50.bmp"
+        },
+        {
+            "time": 0.21622276306152344,
+            "displacement": 0.17470962241005086,
+            "velocity": 0.409375878842768,
+            "reward": -0.034990945762885646,
+            "path": "data/record/stream_1678198211456/frame_51.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_51.bmp"
+        },
+        {
+            "time": 0.2890455722808838,
+            "displacement": 0.18234714951460926,
+            "velocity": 0.41009415416741923,
+            "reward": -0.02199895665081412,
+            "path": "data/record/stream_1678198211456/frame_52.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_52.bmp"
+        },
+        {
+            "time": 0.360309362411499,
+            "displacement": 0.18514931943393395,
+            "velocity": 0.4083166025894542,
+            "reward": -0.018278964554546313,
+            "path": "data/record/stream_1678198211456/frame_53.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_53.bmp"
+        },
+        {
+            "time": 0.43169331550598145,
+            "displacement": 0.19457996596630103,
+            "velocity": 0.42735137713745314,
+            "reward": -0.02138133283383853,
+            "path": "data/record/stream_1678198211456/frame_54.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_54.bmp"
+        },
+        {
+            "time": 0.5041952133178711,
+            "displacement": 0.26610134572321353,
+            "velocity": 0.4240867304349975,
+            "reward": -0.014474932734208806,
+            "path": "data/record/stream_1678198211456/frame_55.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_55.bmp"
+        },
+        {
+            "time": 0.5757303237915039,
+            "displacement": 0.30486664565725946,
+            "velocity": 0.4194719453842522,
+            "reward": -0.009852112473360262,
+            "path": "data/record/stream_1678198211456/frame_56.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_56.bmp"
+        },
+        {
+            "time": 0.6484348773956299,
+            "displacement": 0.32757563681607405,
+            "velocity": 0.42918794708538693,
+            "reward": -0.008896197821041563,
+            "path": "data/record/stream_1678198211456/frame_57.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_57.bmp"
+        },
+        {
+            "time": 0.7193372249603271,
+            "displacement": 0.30555411917837183,
+            "velocity": 0.4103036544846657,
+            "reward": -0.003618383888157587,
+            "path": "data/record/stream_1678198211456/frame_58.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_58.bmp"
+        },
+        {
+            "time": 0.792412519454956,
+            "displacement": 0.3484789927446259,
+            "velocity": 0.42777567528622473,
+            "reward": -0.004285385752168876,
+            "path": "data/record/stream_1678198211456/frame_59.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_59.bmp"
+        },
+        {
+            "time": 0.8636500835418701,
+            "displacement": 0.3471624899268786,
+            "velocity": 0.43037701574550885,
+            "reward": -0.0032298143393289886,
+            "path": "data/record/stream_1678198211456/frame_60.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_60.bmp"
+        },
+        {
+            "time": 0.9361212253570557,
+            "displacement": 0.3670686519328089,
+            "velocity": 0.4221966049555707,
+            "reward": -0.001770751765954371,
+            "path": "data/record/stream_1678198211456/frame_61.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_61.bmp"
+        },
+        {
+            "time": 1.00754714012146,
+            "displacement": 0.40707695324702686,
+            "velocity": 0.4277411403376319,
+            "reward": -0.002042841153138859,
+            "path": "data/record/stream_1678198211456/frame_62.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_62.bmp"
+        },
+        {
+            "time": 1.0802874565124512,
+            "displacement": 0.43798678101202815,
+            "velocity": 0.43797346784030755,
+            "reward": -0.0029834737217408324,
+            "path": "data/record/stream_1678198211456/frame_63.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_63.bmp"
+        },
+        {
+            "time": 1.1513941287994385,
+            "displacement": 0.4699560193621899,
+            "velocity": 0.4357740470141475,
+            "reward": -0.0028787645926884897,
+            "path": "data/record/stream_1678198211456/frame_64.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_64.bmp"
+        },
+        {
+            "time": 1.2244243621826172,
+            "displacement": 0.5125901260767788,
+            "velocity": 0.4470689408837648,
+            "reward": -0.004436185325123665,
+            "path": "data/record/stream_1678198211456/frame_65.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_65.bmp"
+        },
+        {
+            "time": 1.295619010925293,
+            "displacement": 0.535989962762216,
+            "velocity": 0.44040296618241215,
+            "reward": -0.00371940199145847,
+            "path": "data/record/stream_1678198211456/frame_66.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_66.bmp"
+        },
+        {
+            "time": 1.3677682876586914,
+            "displacement": 0.6055645301957915,
+            "velocity": 0.4458556461620762,
+            "reward": -0.004851689987332366,
+            "path": "data/record/stream_1678198211456/frame_67.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_67.bmp"
+        },
+        {
+            "time": 1.4396016597747803,
+            "displacement": 0.6477741422299543,
+            "velocity": 0.4497955014990784,
+            "reward": -0.005615691951990445,
+            "path": "data/record/stream_1678198211456/frame_68.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_68.bmp"
+        },
+        {
+            "time": 1.5122358798980713,
+            "displacement": 0.6178054348109921,
+            "velocity": 0.4368994014788229,
+            "reward": -0.00352395165952844,
+            "path": "data/record/stream_1678198211456/frame_69.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_69.bmp"
+        },
+        {
+            "time": 1.5842552185058594,
+            "displacement": 0.6775768462799728,
+            "velocity": 0.4315843503858953,
+            "reward": -0.0032157234472861606,
+            "path": "data/record/stream_1678198211456/frame_70.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_70.bmp"
+        },
+        {
+            "time": 1.656425952911377,
+            "displacement": 0.7329917181102179,
+            "velocity": 0.4251751576203035,
+            "reward": -0.0028644090913775497,
+            "path": "data/record/stream_1678198211456/frame_71.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_71.bmp"
+        },
+        {
+            "time": 1.7286312580108643,
+            "displacement": 0.789543656136567,
+            "velocity": 0.41079319643816886,
+            "reward": -0.002078042900513268,
+            "path": "data/record/stream_1678198211456/frame_72.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_72.bmp"
+        },
+        {
+            "time": 1.800370216369629,
+            "displacement": 0.8047932548341472,
+            "velocity": 0.4190590339688981,
+            "reward": -0.00249130781179126,
+            "path": "data/record/stream_1678198211456/frame_73.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_73.bmp"
+        },
+        {
+            "time": 1.8714814186096191,
+            "displacement": 0.8271107640158692,
+            "velocity": 0.422738277901105,
+            "reward": -0.0027089155033397775,
+            "path": "data/record/stream_1678198211456/frame_74.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_74.bmp"
+        },
+        {
+            "time": 1.944094181060791,
+            "displacement": 0.833877746485518,
+            "velocity": 0.42650029240849524,
+            "reward": -0.0027906200599187043,
+            "path": "data/record/stream_1678198211456/frame_75.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_75.bmp"
+        },
+        {
+            "time": 2.0156850814819336,
+            "displacement": 0.8577132258992751,
+            "velocity": 0.42590515657784195,
+            "reward": -0.002660315080186494,
+            "path": "data/record/stream_1678198211456/frame_76.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_76.bmp"
+        },
+        {
+            "time": 2.0882227420806885,
+            "displacement": 0.8616216661059092,
+            "velocity": 0.41976099957293267,
+            "reward": -0.0018972113860990416,
+            "path": "data/record/stream_1678198211456/frame_77.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_77.bmp"
+        },
+        {
+            "time": 2.159656047821045,
+            "displacement": 0.8858255032291654,
+            "velocity": 0.4302133900316877,
+            "reward": -0.0027728685812782317,
+            "path": "data/record/stream_1678198211456/frame_78.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_78.bmp"
+        },
+        {
+            "time": 2.2321934700012207,
+            "displacement": 0.9053179449497565,
+            "velocity": 0.39907800622018075,
+            "reward": -0.0005563189120945989,
+            "path": "data/record/stream_1678198211456/frame_79.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_79.bmp"
+        },
+        {
+            "time": 2.303536891937256,
+            "displacement": 0.9062095881784935,
+            "velocity": 0.3968836547679601,
+            "reward": -0.000336757155523582,
+            "path": "data/record/stream_1678198211456/frame_80.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_80.bmp"
+        },
+        {
+            "time": 2.375758171081543,
+            "displacement": 0.9758962504193389,
+            "velocity": 0.41546419952154146,
+            "reward": -0.0014672160406611217,
+            "path": "data/record/stream_1678198211456/frame_81.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_81.bmp"
+        },
+        {
+            "time": 2.4480814933776855,
+            "displacement": 1.0326764870928187,
+            "velocity": 0.4246032614503105,
+            "reward": -0.002375631365727002,
+            "path": "data/record/stream_1678198211456/frame_82.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_82.bmp"
+        },
+        {
+            "time": 2.520327091217041,
+            "displacement": 1.0895803753519515,
+            "velocity": 0.43959392754313925,
+            "reward": -0.004157943542764196,
+            "path": "data/record/stream_1678198211456/frame_83.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_83.bmp"
+        },
+        {
+            "time": 2.592339515686035,
+            "displacement": 1.1187724780283284,
+            "velocity": 0.44227355465758444,
+            "reward": -0.004464913636897023,
+            "path": "data/record/stream_1678198211456/frame_84.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_84.bmp"
+        },
+        {
+            "time": 2.6649115085601807,
+            "displacement": 1.155498571875738,
+            "velocity": 0.44048594639347155,
+            "reward": -0.00433007899453522,
+            "path": "data/record/stream_1678198211456/frame_85.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_85.bmp"
+        },
+        {
+            "time": 2.7359511852264404,
+            "displacement": 1.1952074880333505,
+            "velocity": 0.459783472358132,
+            "reward": -0.00711070572608379,
+            "path": "data/record/stream_1678198211456/frame_86.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_86.bmp"
+        },
+        {
+            "time": 2.8076860904693604,
+            "displacement": 1.2384430693580326,
+            "velocity": 0.4628338613168232,
+            "reward": -0.007794853688768696,
+            "path": "data/record/stream_1678198211456/frame_87.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_87.bmp"
+        },
+        {
+            "time": 2.880113363265991,
+            "displacement": 1.284421096954064,
+            "velocity": 0.431108288808363,
+            "reward": -0.00389119951560595,
+            "path": "data/record/stream_1678198211456/frame_88.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_88.bmp"
+        },
+        {
+            "time": 2.951604127883911,
+            "displacement": 1.3347704485586793,
+            "velocity": 0.40470097735751565,
+            "reward": -0.0023082487647080176,
+            "path": "data/record/stream_1678198211456/frame_89.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_89.bmp"
+        },
+        {
+            "time": 3.0242223739624023,
+            "displacement": 1.3504500193576763,
+            "velocity": 0.4083506903795547,
+            "reward": -0.002281136766540947,
+            "path": "data/record/stream_1678198211456/frame_90.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_90.bmp"
+        },
+        {
+            "time": 3.09565806388855,
+            "displacement": 1.3653734047635944,
+            "velocity": 0.4206559997439626,
+            "reward": -0.0029151228472920486,
+            "path": "data/record/stream_1678198211456/frame_91.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_91.bmp"
+        },
+        {
+            "time": 3.1681880950927734,
+            "displacement": 1.3847559440598243,
+            "velocity": 0.4055539131984231,
+            "reward": -0.0018093062206089201,
+            "path": "data/record/stream_1678198211456/frame_92.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_92.bmp"
+        },
+        {
+            "time": 3.2394025325775146,
+            "displacement": 1.4065682970097177,
+            "velocity": 0.3990297853921151,
+            "reward": -0.0014407284156539972,
+            "path": "data/record/stream_1678198211456/frame_93.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_93.bmp"
+        },
+        {
+            "time": 3.3123764991760254,
+            "displacement": 1.4551240491411157,
+            "velocity": 0.4101654722680626,
+            "reward": -0.0022755677020546237,
+            "path": "data/record/stream_1678198211456/frame_94.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_94.bmp"
+        },
+        {
+            "time": 3.3833718299865723,
+            "displacement": 1.465921854470954,
+            "velocity": 0.41999925565467605,
+            "reward": -0.0027574602171086746,
+            "path": "data/record/stream_1678198211456/frame_95.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_95.bmp"
+        },
+        {
+            "time": 3.4561777114868164,
+            "displacement": 1.4848900875270226,
+            "velocity": 0.41979425904009804,
+            "reward": -0.002644842295505351,
+            "path": "data/record/stream_1678198211456/frame_96.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_96.bmp"
+        },
+        {
+            "time": 3.52809739112854,
+            "displacement": 1.517441490828812,
+            "velocity": 0.42849146599762716,
+            "reward": -0.0035293258180658293,
+            "path": "data/record/stream_1678198211456/frame_97.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_97.bmp"
+        },
+        {
+            "time": 3.5999975204467773,
+            "displacement": 1.5430485430419179,
+            "velocity": 0.42079129046274655,
+            "reward": -0.0028157517385480548,
+            "path": "data/record/stream_1678198211456/frame_98.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_98.bmp"
+        },
+        {
+            "time": 3.6721739768981934,
+            "displacement": 1.5664330515092868,
+            "velocity": 0.4235598534294805,
+            "reward": -0.0030444466518576947,
+            "path": "data/record/stream_1678198211456/frame_99.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_99.bmp"
+        },
+        {
+            "time": 3.743858575820923,
+            "displacement": 1.6176704123289039,
+            "velocity": 0.42201317963229573,
+            "reward": -0.0032337096395403785,
+            "path": "data/record/stream_1678198211456/frame_100.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_100.bmp"
+        },
+        {
+            "time": 3.8160998821258545,
+            "displacement": 1.6255280028233683,
+            "velocity": 0.41636758558899756,
+            "reward": -0.0025137144584815776,
+            "path": "data/record/stream_1678198211456/frame_101.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_101.bmp"
+        },
+        {
+            "time": 3.8879354000091553,
+            "displacement": 1.6793896416018388,
+            "velocity": 0.41891500926218667,
+            "reward": -0.003069256595186398,
+            "path": "data/record/stream_1678198211456/frame_102.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_102.bmp"
+        },
+        {
+            "time": 3.959951400756836,
+            "displacement": 1.6936651673684606,
+            "velocity": 0.4095446783735105,
+            "reward": -0.0021535118464965706,
+            "path": "data/record/stream_1678198211456/frame_103.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_103.bmp"
+        },
+        {
+            "time": 4.031829833984375,
+            "displacement": 1.7286880969302674,
+            "velocity": 0.41135132627896415,
+            "reward": -0.002339763799372913,
+            "path": "data/record/stream_1678198211456/frame_104.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_104.bmp"
+        },
+        {
+            "time": 4.1043078899383545,
+            "displacement": 1.770486170011003,
+            "velocity": 0.4065660759624488,
+            "reward": -0.0021565571335639246,
+            "path": "data/record/stream_1678198211456/frame_105.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_105.bmp"
+        },
+        {
+            "time": 4.177519798278809,
+            "displacement": 1.7891477730982066,
+            "velocity": 0.3970572865520886,
+            "reward": -0.0014809695015282204,
+            "path": "data/record/stream_1678198211456/frame_106.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_106.bmp"
+        },
+        {
+            "time": 4.248035430908203,
+            "displacement": 1.8116991153758395,
+            "velocity": 0.40737945368854994,
+            "reward": -0.0018337872647811763,
+            "path": "data/record/stream_1678198211456/frame_107.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_107.bmp"
+        },
+        {
+            "time": 4.319445610046387,
+            "displacement": 1.809554880155038,
+            "velocity": 0.39139333308204766,
+            "reward": -0.0007769616266338521,
+            "path": "data/record/stream_1678198211456/frame_108.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_108.bmp"
+        },
+        {
+            "time": 4.392489671707153,
+            "displacement": 1.8480292002870746,
+            "velocity": 0.39819246424096827,
+            "reward": -0.0010175305572879254,
+            "path": "data/record/stream_1678198211456/frame_109.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_109.bmp"
+        },
+        {
+            "time": 4.463595151901245,
+            "displacement": 1.8646443153446968,
+            "velocity": 0.3949819679422338,
+            "reward": -0.0007743120951805084,
+            "path": "data/record/stream_1678198211456/frame_110.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_110.bmp"
+        },
+        {
+            "time": 4.536210536956787,
+            "displacement": 1.8811561565065817,
+            "velocity": 0.39824980229467244,
+            "reward": -0.0007531434300581064,
+            "path": "data/record/stream_1678198211456/frame_111.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_111.bmp"
+        },
+        {
+            "time": 4.607422828674316,
+            "displacement": 1.9247115146728913,
+            "velocity": 0.39898563258218683,
+            "reward": -0.0009779263610305547,
+            "path": "data/record/stream_1678198211456/frame_112.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_112.bmp"
+        },
+        {
+            "time": 4.680433511734009,
+            "displacement": 1.9379694103026814,
+            "velocity": 0.38048121694584697,
+            "reward": -0.0004939130062057307,
+            "path": "data/record/stream_1678198211456/frame_113.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_113.bmp"
+        },
+        {
+            "time": 4.7511537075042725,
+            "displacement": 1.9788382879944708,
+            "velocity": 0.3862139813286616,
+            "reward": -0.0008266685828287314,
+            "path": "data/record/stream_1678198211456/frame_114.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_114.bmp"
+        },
+        {
+            "time": 4.824486255645752,
+            "displacement": 2.0052158959524395,
+            "velocity": 0.3752824223552276,
+            "reward": -0.000681881887210681,
+            "path": "data/record/stream_1678198211456/frame_115.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_115.bmp"
+        },
+        {
+            "time": 4.895467519760132,
+            "displacement": 2.0254259488886173,
+            "velocity": 0.37846821216025056,
+            "reward": -0.0008230689221541699,
+            "path": "data/record/stream_1678198211456/frame_116.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_116.bmp"
+        },
+        {
+            "time": 4.968194007873535,
+            "displacement": 2.058303391769228,
+            "velocity": 0.35920826926321703,
+            "reward": -0.0005233623724113535,
+            "path": "data/record/stream_1678198211456/frame_117.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_117.bmp"
+        },
+        {
+            "time": 5.039443731307983,
+            "displacement": 2.068124179358757,
+            "velocity": 0.35442933724678155,
+            "reward": -0.0005425652200566498,
+            "path": "data/record/stream_1678198211456/frame_118.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_118.bmp"
+        },
+        {
+            "time": 5.112431287765503,
+            "displacement": 2.074976238566227,
+            "velocity": 0.35894249567901954,
+            "reward": -0.0006112285391834768,
+            "path": "data/record/stream_1678198211456/frame_119.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_119.bmp"
+        },
+        {
+            "time": 5.183755397796631,
+            "displacement": 2.088390087613629,
+            "velocity": 0.33489531555883284,
+            "reward": -0.0026573876909090004,
+            "path": "data/record/stream_1678198211456/frame_120.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_120.bmp"
+        },
+        {
+            "time": 5.256282329559326,
+            "displacement": 2.1285818328072392,
+            "velocity": 0.32758296190557434,
+            "reward": -0.002756149719174927,
+            "path": "data/record/stream_1678198211456/frame_121.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_121.bmp"
+        },
+        {
+            "time": 5.327622413635254,
+            "displacement": 2.176558184349775,
+            "velocity": 0.29977858469837126,
+            "reward": -0.0029233358403493665,
+            "path": "data/record/stream_1678198211456/frame_122.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_122.bmp"
+        },
+        {
+            "time": 5.400406122207642,
+            "displacement": 2.1857267112753958,
+            "velocity": 0.3044813281158761,
+            "reward": -0.0004545794282724225,
+            "path": "data/record/stream_1678198211456/frame_123.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_123.bmp"
+        },
+        {
+            "time": 5.471431493759155,
+            "displacement": 2.2165237861475577,
+            "velocity": 0.2431348158229904,
+            "reward": -0.005437317872430935,
+            "path": "data/record/stream_1678198211456/frame_124.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_124.bmp"
+        },
+        {
+            "time": 5.543752670288086,
+            "displacement": 2.2480189418626275,
+            "velocity": 0.22216184184661822,
+            "reward": -0.0055356886497430315,
+            "path": "data/record/stream_1678198211456/frame_125.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_125.bmp"
+        },
+        {
+            "time": 5.615968465805054,
+            "displacement": 2.2770497970202577,
+            "velocity": 0.1921123692110324,
+            "reward": -0.0068503293130813235,
+            "path": "data/record/stream_1678198211456/frame_126.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_126.bmp"
+        },
+        {
+            "time": 5.687535047531128,
+            "displacement": 2.26960442934334,
+            "velocity": 0.16445558500178864,
+            "reward": -0.012161364396019224,
+            "path": "data/record/stream_1678198211456/frame_127.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_127.bmp"
+        },
+        {
+            "time": 5.7601869106292725,
+            "displacement": 2.279678890277064,
+            "velocity": 0.15280593169825096,
+            "reward": -0.0062449288492305135,
+            "path": "data/record/stream_1678198211456/frame_128.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_128.bmp"
+        },
+        {
+            "time": 5.832621335983276,
+            "displacement": 2.2721653873358045,
+            "velocity": 0.13920115939682853,
+            "reward": -0.0008848968254737193,
+            "path": "data/record/stream_1678198211456/frame_129.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_129.bmp"
+        },
+        {
+            "time": 5.90437650680542,
+            "displacement": 2.2801006023104295,
+            "velocity": 0.10787956291107122,
+            "reward": -0.00027922738162133143,
+            "path": "data/record/stream_1678198211456/frame_130.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_130.bmp"
+        },
+        {
+            "time": 5.975375175476074,
+            "displacement": 2.267429562871187,
+            "velocity": 0.09452977883401688,
+            "reward": -2.59789201004578e-05,
+            "path": "data/record/stream_1678198211456/frame_131.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_131.bmp"
+        },
+        {
+            "time": 6.048399448394775,
+            "displacement": 2.2805562886981288,
+            "velocity": 0.0778068915086415,
+            "reward": -0.0001379868367828892,
+            "path": "data/record/stream_1678198211456/frame_132.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_132.bmp"
+        },
+        {
+            "time": 6.119367599487305,
+            "displacement": 2.2824722089524667,
+            "velocity": 0.08714224614765137,
+            "reward": -3.3534568695784865e-06,
+            "path": "data/record/stream_1678198211456/frame_133.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_133.bmp"
+        },
+        {
+            "time": 6.192422389984131,
+            "displacement": 2.2948507436886536,
+            "velocity": 0.08922571764939574,
+            "reward": -5.325064072781286e-06,
+            "path": "data/record/stream_1678198211456/frame_134.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_134.bmp"
+        },
+        {
+            "time": 6.263216972351074,
+            "displacement": 2.3005303797090617,
+            "velocity": 0.09173497014031633,
+            "reward": -1.6154669641778486e-06,
+            "path": "data/record/stream_1678198211456/frame_135.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_135.bmp"
+        },
+        {
+            "time": 6.336232423782349,
+            "displacement": 2.3128481853435776,
+            "velocity": 0.09373755856838815,
+            "reward": -3.475620209434388e-06,
+            "path": "data/record/stream_1678198211456/frame_136.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_136.bmp"
+        },
+        {
+            "time": 6.407336235046387,
+            "displacement": 2.311304767860176,
+            "velocity": 0.1029147265808889,
+            "reward": -0.0001764978841546699,
+            "path": "data/record/stream_1678198211456/frame_137.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_137.bmp"
+        },
+        {
+            "time": 6.480414152145386,
+            "displacement": 2.326162388270957,
+            "velocity": 0.10299640650085747,
+            "reward": -0.0002464175974179883,
+            "path": "data/record/stream_1678198211456/frame_138.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_138.bmp"
+        },
+        {
+            "time": 6.551323175430298,
+            "displacement": 2.3339510633747347,
+            "velocity": 0.11107863927585943,
+            "reward": -0.0006621917290047495,
+            "path": "data/record/stream_1678198211456/frame_139.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_139.bmp"
+        },
+        {
+            "time": 6.624440908432007,
+            "displacement": 2.340733990193161,
+            "velocity": 0.10860708332420833,
+            "reward": -0.0006064831512987574,
+            "path": "data/record/stream_1678198211456/frame_140.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_140.bmp"
+        },
+        {
+            "time": 6.695676565170288,
+            "displacement": 2.349158526175862,
+            "velocity": 0.1084784897920299,
+            "reward": -0.0006376961783646196,
+            "path": "data/record/stream_1678198211456/frame_141.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_141.bmp"
+        },
+        {
+            "time": 6.768214702606201,
+            "displacement": 2.353719477831966,
+            "velocity": 0.11472221976818314,
+            "reward": -0.00101579725109111,
+            "path": "data/record/stream_1678198211456/frame_142.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_142.bmp"
+        },
+        {
+            "time": 6.839555025100708,
+            "displacement": 2.364222605739264,
+            "velocity": 0.10658779650239757,
+            "reward": -0.0005640014483802899,
+            "path": "data/record/stream_1678198211456/frame_143.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_143.bmp"
+        },
+        {
+            "time": 6.9124228954315186,
+            "displacement": 2.373536862797472,
+            "velocity": 0.09846957441876106,
+            "reward": -0.00024014925928595533,
+            "path": "data/record/stream_1678198211456/frame_144.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_144.bmp"
+        },
+        {
+            "time": 6.983291387557983,
+            "displacement": 2.391634324089322,
+            "velocity": 0.09254017205568889,
+            "reward": -8.354563738824407e-05,
+            "path": "data/record/stream_1678198211456/frame_145.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_145.bmp"
+        },
+        {
+            "time": 7.056312799453735,
+            "displacement": 2.393800764089753,
+            "velocity": 0.11281134919221804,
+            "reward": -0.0008533886042667531,
+            "path": "data/record/stream_1678198211456/frame_146.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_146.bmp"
+        },
+        {
+            "time": 7.127438306808472,
+            "displacement": 2.40302068978575,
+            "velocity": 0.12004514357095442,
+            "reward": -0.0013147758887709562,
+            "path": "data/record/stream_1678198211456/frame_147.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_147.bmp"
+        },
+        {
+            "time": 7.200496196746826,
+            "displacement": 2.4144582777765833,
+            "velocity": 0.11424833932584781,
+            "reward": -0.0009201830350348101,
+            "path": "data/record/stream_1678198211456/frame_148.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_148.bmp"
+        },
+        {
+            "time": 7.271494626998901,
+            "displacement": 2.4257424198406246,
+            "velocity": 0.11020939362994338,
+            "reward": -0.0006881048743182846,
+            "path": "data/record/stream_1678198211456/frame_149.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_149.bmp"
+        },
+        {
+            "time": 7.344280242919922,
+            "displacement": 2.4282740467049284,
+            "velocity": 0.11355353859137327,
+            "reward": -0.0008750266813983485,
+            "path": "data/record/stream_1678198211456/frame_150.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_150.bmp"
+        },
+        {
+            "time": 7.4155707359313965,
+            "displacement": 2.4338471211517265,
+            "velocity": 0.11176827444648933,
+            "reward": -0.0007750375460551703,
+            "path": "data/record/stream_1678198211456/frame_151.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_151.bmp"
+        },
+        {
+            "time": 7.488307476043701,
+            "displacement": 2.456213580441081,
+            "velocity": 0.10531675219791062,
+            "reward": -0.00046016423780254376,
+            "path": "data/record/stream_1678198211456/frame_152.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_152.bmp"
+        },
+        {
+            "time": 7.561472654342651,
+            "displacement": 2.467846030890698,
+            "velocity": 0.10173120611869331,
+            "reward": -0.00032498139282929894,
+            "path": "data/record/stream_1678198211456/frame_153.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_153.bmp"
+        },
+        {
+            "time": 7.631882905960083,
+            "displacement": 2.471632586896092,
+            "velocity": 0.10238065898742595,
+            "reward": -0.0003492152520607582,
+            "path": "data/record/stream_1678198211456/frame_154.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_154.bmp"
+        },
+        {
+            "time": 7.7040393352508545,
+            "displacement": 2.4751998867081286,
+            "velocity": 0.11908433949963147,
+            "reward": -0.0012561087116676052,
+            "path": "data/record/stream_1678198211456/frame_155.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_155.bmp"
+        },
+        {
+            "time": 7.775561571121216,
+            "displacement": 2.4858472258334614,
+            "velocity": 0.11325413737274459,
+            "reward": -0.0008837985345131848,
+            "path": "data/record/stream_1678198211456/frame_156.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_156.bmp"
+        },
+        {
+            "time": 7.848006963729858,
+            "displacement": 2.4959927870495613,
+            "velocity": 0.10389228188505996,
+            "reward": -0.0004203634163294642,
+            "path": "data/record/stream_1678198211456/frame_157.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_157.bmp"
+        },
+        {
+            "time": 7.919546604156494,
+            "displacement": 2.510415814450413,
+            "velocity": 0.09739674315639586,
+            "reward": -0.00020535565431472718,
+            "path": "data/record/stream_1678198211456/frame_158.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_158.bmp"
+        },
+        {
+            "time": 7.992438316345215,
+            "displacement": 2.5036152932884446,
+            "velocity": 0.11008583743001939,
+            "reward": -0.0007169112784761297,
+            "path": "data/record/stream_1678198211456/frame_159.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_159.bmp"
+        },
+        {
+            "time": 8.063546180725098,
+            "displacement": 2.5007777166111826,
+            "velocity": 0.1064055797960112,
+            "reward": -0.0005393000394922047,
+            "path": "data/record/stream_1678198211456/frame_160.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_160.bmp"
+        },
+        {
+            "time": 8.136253118515015,
+            "displacement": 2.5058823451314143,
+            "velocity": 0.09322882549827108,
+            "reward": -0.00010602822941702625,
+            "path": "data/record/stream_1678198211456/frame_161.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_161.bmp"
+        },
+        {
+            "time": 8.208597421646118,
+            "displacement": 2.5187836072334644,
+            "velocity": 0.08493807256604183,
+            "reward": -5.165622944567426e-06,
+            "path": "data/record/stream_1678198211456/frame_162.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_162.bmp"
+        },
+        {
+            "time": 8.280296802520752,
+            "displacement": 2.5182851646126743,
+            "velocity": 0.0707438108694127,
+            "reward": -0.00017003452983111462,
+            "path": "data/record/stream_1678198211456/frame_163.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_163.bmp"
+        },
+        {
+            "time": 8.35190725326538,
+            "displacement": 2.5210894655339353,
+            "velocity": 0.06410553024271276,
+            "reward": -0.00040085589980060104,
+            "path": "data/record/stream_1678198211456/frame_164.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_164.bmp"
+        },
+        {
+            "time": 8.424390077590942,
+            "displacement": 2.5282236453097577,
+            "velocity": 0.039874236390613806,
+            "reward": -0.002005264398516842,
+            "path": "data/record/stream_1678198211456/frame_165.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_165.bmp"
+        },
+        {
+            "time": 8.495362043380737,
+            "displacement": 2.5280464118983073,
+            "velocity": 0.019350569297407107,
+            "reward": -0.004266931758554609,
+            "path": "data/record/stream_1678198211456/frame_166.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_166.bmp"
+        },
+        {
+            "time": 8.568355321884155,
+            "displacement": 2.5283298406467094,
+            "velocity": 0.007817934043410276,
+            "reward": -0.005537998853556285,
+            "path": "data/record/stream_1678198211456/frame_167.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_167.bmp"
+        },
+        {
+            "time": 8.639245986938477,
+            "displacement": 2.537595820202833,
+            "velocity": 0.0014508416843375422,
+            "reward": -0.006436287630629548,
+            "path": "data/record/stream_1678198211456/frame_168.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_168.bmp"
+        },
+        {
+            "time": 8.711750984191895,
+            "displacement": 2.537289056690821,
+            "velocity": -0.0014201215929274286,
+            "reward": -0.00826135250991996,
+            "path": "data/record/stream_1678198211456/frame_169.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_169.bmp"
+        },
+        {
+            "time": 8.783637285232544,
+            "displacement": 2.535025596751697,
+            "velocity": -0.003357206515925412,
+            "reward": -0.00844641758041445,
+            "path": "data/record/stream_1678198211456/frame_170.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_170.bmp"
+        },
+        {
+            "time": 8.855934619903564,
+            "displacement": 2.533533340758197,
+            "velocity": -0.0025702574546229455,
+            "reward": -0.0006641548245267413,
+            "path": "data/record/stream_1678198211456/frame_171.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_171.bmp"
+        },
+        {
+            "time": 8.927565336227417,
+            "displacement": 2.5362125070339965,
+            "velocity": -0.0007463151042436472,
+            "reward": -0.0012345321265129139,
+            "path": "data/record/stream_1678198211456/frame_172.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_172.bmp"
+        },
+        {
+            "time": 9.000123739242554,
+            "displacement": 2.5310886442974123,
+            "velocity": -0.000974176446357286,
+            "reward": -0.0009543343998405946,
+            "path": "data/record/stream_1678198211456/frame_173.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_173.bmp"
+        },
+        {
+            "time": 9.071596622467041,
+            "displacement": 2.531613174732335,
+            "velocity": -0.0025458093864941882,
+            "reward": -0.0006837339763378147,
+            "path": "data/record/stream_1678198211456/frame_174.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_174.bmp"
+        },
+        {
+            "time": 9.144183874130249,
+            "displacement": 2.5321301973847707,
+            "velocity": -0.0019561361895302776,
+            "reward": -0.0007974968702325069,
+            "path": "data/record/stream_1678198211456/frame_175.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_175.bmp"
+        },
+        {
+            "time": 9.216296911239624,
+            "displacement": 2.5305840671339004,
+            "velocity": -0.002192597811865465,
+            "reward": -0.0008830760954045959,
+            "path": "data/record/stream_1678198211456/frame_176.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_176.bmp"
+        },
+        {
+            "time": 9.288400411605835,
+            "displacement": 2.5334444311056763,
+            "velocity": -0.0017386459331064392,
+            "reward": -0.0009116650284353191,
+            "path": "data/record/stream_1678198211456/frame_177.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_177.bmp"
+        },
+        {
+            "time": 9.35945987701416,
+            "displacement": 2.534627205456923,
+            "velocity": -0.001987068824742616,
+            "reward": -0.0008110132962954636,
+            "path": "data/record/stream_1678198211456/frame_178.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_178.bmp"
+        },
+        {
+            "time": 9.432535886764526,
+            "displacement": 2.537414039536351,
+            "velocity": -0.00311895041053912,
+            "reward": -0.0005689341474499573,
+            "path": "data/record/stream_1678198211456/frame_179.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_179.bmp"
+        },
+        {
+            "time": 9.503355026245117,
+            "displacement": 2.5367755034955035,
+            "velocity": -0.0014611182023904629,
+            "reward": -0.0008990004980522181,
+            "path": "data/record/stream_1678198211456/frame_180.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_180.bmp"
+        },
+        {
+            "time": 9.5762939453125,
+            "displacement": 2.532359925989389,
+            "velocity": -0.0019177389725753252,
+            "reward": -0.0009066124079183714,
+            "path": "data/record/stream_1678198211456/frame_181.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_181.bmp"
+        },
+        {
+            "time": 9.647274255752563,
+            "displacement": 2.535022774878447,
+            "velocity": -0.002720561246119013,
+            "reward": -0.0008495609712731648,
+            "path": "data/record/stream_1678198211456/frame_182.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_182.bmp"
+        },
+        {
+            "time": 9.720266819000244,
+            "displacement": 2.537105713271896,
+            "velocity": -0.001326963271213097,
+            "reward": -0.0009035156816895422,
+            "path": "data/record/stream_1678198211456/frame_183.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_183.bmp"
+        },
+        {
+            "time": 9.791338920593262,
+            "displacement": 2.5312160188915356,
+            "velocity": -0.0030137814453802007,
+            "reward": -0.0008622190303431707,
+            "path": "data/record/stream_1678198211456/frame_184.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_184.bmp"
+        },
+        {
+            "time": 9.864636182785034,
+            "displacement": 2.528382799489278,
+            "velocity": -0.00240505846395741,
+            "reward": -0.0009115056764949744,
+            "path": "data/record/stream_1678198211456/frame_185.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_185.bmp"
+        },
+        {
+            "time": 9.93539810180664,
+            "displacement": 2.5345555099859407,
+            "velocity": -0.002282185446251908,
+            "reward": -0.000873699413799491,
+            "path": "data/record/stream_1678198211456/frame_186.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_186.bmp"
+        },
+        {
+            "time": 10.007485389709473,
+            "displacement": 2.53470494845816,
+            "velocity": -0.001573382628581757,
+            "reward": -0.0009073707628078112,
+            "path": "data/record/stream_1678198211456/frame_187.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_187.bmp"
+        },
+        {
+            "time": 10.08023977279663,
+            "displacement": 2.5369185403042067,
+            "velocity": -0.0012389690932058078,
+            "reward": -0.0009091786341000029,
+            "path": "data/record/stream_1678198211456/frame_188.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_188.bmp"
+        },
+        {
+            "time": 10.151969194412231,
+            "displacement": 2.531604450704715,
+            "velocity": -0.0024877332066407993,
+            "reward": -0.0008843474286053942,
+            "path": "data/record/stream_1678198211456/frame_189.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_189.bmp"
+        },
+        {
+            "time": 10.22422742843628,
+            "displacement": 2.529507307716161,
+            "velocity": -0.002316691553158398,
+            "reward": -0.0009075628400168146,
+            "path": "data/record/stream_1678198211456/frame_190.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_190.bmp"
+        },
+        {
+            "time": 10.296844482421875,
+            "displacement": 2.534157882994907,
+            "velocity": -0.0009413039134498341,
+            "reward": -0.0009428999685039694,
+            "path": "data/record/stream_1678198211456/frame_191.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_191.bmp"
+        },
+        {
+            "time": 10.367781639099121,
+            "displacement": 2.530113089495409,
+            "velocity": -0.003477005802318639,
+            "reward": -0.0008486499301893495,
+            "path": "data/record/stream_1678198211456/frame_192.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_192.bmp"
+        },
+        {
+            "time": 10.439900875091553,
+            "displacement": 2.537029868440521,
+            "velocity": -5.0867479302277303e-05,
+            "reward": -0.0009696384938331832,
+            "path": "data/record/stream_1678198211456/frame_193.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_193.bmp"
+        },
+        {
+            "time": 10.512320041656494,
+            "displacement": 2.527798605965881,
+            "velocity": -0.0027908408074873853,
+            "reward": -0.0008974362802507998,
+            "path": "data/record/stream_1678198211456/frame_194.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_194.bmp"
+        },
+        {
+            "time": 10.583912134170532,
+            "displacement": 2.5376870888565035,
+            "velocity": -0.002914365008804387,
+            "reward": -0.000822591664576359,
+            "path": "data/record/stream_1678198211456/frame_195.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_195.bmp"
+        },
+        {
+            "time": 10.65539836883545,
+            "displacement": 2.530030413038603,
+            "velocity": -0.0011658332114018038,
+            "reward": -0.0009605442366349671,
+            "path": "data/record/stream_1678198211456/frame_196.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_196.bmp"
+        },
+        {
+            "time": 10.728256940841675,
+            "displacement": 2.5357744990013975,
+            "velocity": -0.0009970337460182748,
+            "reward": -0.0009290680952395586,
+            "path": "data/record/stream_1678198211456/frame_197.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_197.bmp"
+        },
+        {
+            "time": 10.799951314926147,
+            "displacement": 2.5323417344901245,
+            "velocity": -0.0022371730306197575,
+            "reward": -0.0008912010676402033,
+            "path": "data/record/stream_1678198211456/frame_198.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_198.bmp"
+        },
+        {
+            "time": 10.872474908828735,
+            "displacement": 2.531354010750607,
+            "velocity": -0.0005976609109808823,
+            "reward": -0.0009800851588648632,
+            "path": "data/record/stream_1678198211456/frame_199.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_199.bmp"
+        },
+        {
+            "time": 10.943344354629517,
+            "displacement": 2.5332004108904798,
+            "velocity": -0.001748756942133059,
+            "reward": -0.0009090505310812948,
+            "path": "data/record/stream_1678198211456/frame_200.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_200.bmp"
+        },
+        {
+            "time": 11.016012907028198,
+            "displacement": 2.5305000061129252,
+            "velocity": -0.0020812030301396943,
+            "reward": -0.000911813842292745,
+            "path": "data/record/stream_1678198211456/frame_201.bmp",
+            "opath": "data/record/stream_1678198211456/oframe_201.bmp"
+        }
+    ]
+}
